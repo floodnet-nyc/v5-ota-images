@@ -1,7 +1,7 @@
 ESP32_MIGRATION:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_esp32c3_v0.0.5-migration-preview.bin
 STM32_SBL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_stm32u575_sbl.bin,5e12293eaaf937841b028d4ae31eaab07c5812a805d019ebfe3c603e787536b8
-STM32_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_stm32u575_v0.2.0-preview.s.bin,133cf01413203d111289371b7e7b77b27bedb5df117ca4a65e73c46d4fd3e5ba
+STM32_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_stm32u575_v0.2.0-preview.s.bin,cff61213494b96614019e1a0a82b21eaf3ff4b838da05c83e13d973199ce8781
 NRF_SBL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_nrf9151_sbl.bin,e8409dfe4932c0cbf4aecde53e386dc1822770f35a231263658eaaeac199a14d
-NRF_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_nrf9151_v0.2.0-preview.s.bin,e0550da71d8f8174ca8311ee24cdbc7930ca71d81b5c8da74c64ee0ebd39e994
-ESP32_SBL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_esp32c3_sbl.bin,0723dbfc940c0ded25cde01c5c1718df251c53b6e2918e7a691f098ce895cb6a
-ESP32_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_esp32c3_v0.1.0-preview.s.bin,d3a5bb3040968e7d2a3bbb3fe0142dd97c15871a243a63dce13a17df8d26d5fd
+NRF_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_nrf9151_v0.2.0-preview.s.bin,464adcdbde5c9f9b94c872c30d23d53a131f7453d503c7b8a84a5fee983a07f3
+ESP32_SBL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_esp32c3_sbl.bin,0a9216d48b8921b8c4c2a13ec9ada208111fdfb68f0c51d43539a95a89aa4166
+ESP32_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/refs/heads/main/migration/v5_esp32c3_v0.1.0-preview.s.bin,00a89c13bbb70b938a9ba3d6f469a5fb1a40b966a43f13b045d1cef2831a98df
