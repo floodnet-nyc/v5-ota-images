@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "bundle_tag": "fw-bundle_lab-20260921.1",
+  "release_class": "lab",
+  "generated_at": "2026-09-21T21:07:49Z",
+  "images": [
+    {
+      "target": "v5_stm32u575",
+      "version": "v0.2.0-preview.5",
+      "asset": "v5_stm32u575-fw-bundle_lab-20260921.1.s.bin",
+      "path": "fw-bundle_lab-20260921.1/v5_stm32u575-fw-bundle_lab-20260921.1.s.bin",
+      "sha256": "37b01471c5a5e4209988a016322c5491f6b21074cd5b5bac3b69a23592ab9202",
+      "size_bytes": 345960
+    },
+    {
+      "target": "v5_nRF9151",
+      "version": "v0.2.0-preview.3",
+      "asset": "v5_nRF9151-fw-bundle_lab-20260921.1.s.bin",
+      "path": "fw-bundle_lab-20260921.1/v5_nRF9151-fw-bundle_lab-20260921.1.s.bin",
+      "sha256": "abb5eb4b14cf65ec7b3f1b551b2c5522d8196837c1308e705f448d258fc4be13",
+      "size_bytes": 227460
+    },
+    {
+      "target": "v5_esp32c3",
+      "version": "v0.1.0-preview.2",
+      "asset": "v5_esp32c3-fw-bundle_lab-20260921.1.s.bin",
+      "path": "fw-bundle_lab-20260921.1/v5_esp32c3-fw-bundle_lab-20260921.1.s.bin",
+      "sha256": "06aa61ec67d86639f8e1920555e3e91a1d95bcdc26488238bd388f22ea879014",
+      "size_bytes": 139332
+    }
+  ]
+}
