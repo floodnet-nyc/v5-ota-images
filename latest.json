@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
-  "bundle_tag": "fw-bundle_ltt-20261015.1",
+  "bundle_tag": "fw-bundle_ltt-20261020.1",
   "release_class": "ltt",
-  "generated_at": "2026-10-15T14:50:54Z",
+  "generated_at": "2026-10-20T21:27:44Z",
   "images": [
     {
       "target": "v5_stm32u575",
-      "version": "v0.2.0-rc.2",
-      "asset": "v5_stm32u575-fw-bundle_ltt-20261015.1.s.bin",
-      "path": "fw-bundle_ltt-20261015.1/v5_stm32u575-fw-bundle_ltt-20261015.1.s.bin",
-      "sha256": "10b75bac63d153ae1f2602df3fe427c6a659883faa6643f1bd99abe041af3871",
-      "size_bytes": 582940
+      "version": "v0.2.0-rc.3",
+      "asset": "v5_stm32u575-fw-bundle_ltt-20261020.1.s.bin",
+      "path": "fw-bundle_ltt-20261020.1/v5_stm32u575-fw-bundle_ltt-20261020.1.s.bin",
+      "sha256": "5fff1262246d27b335cee3dccf20c96d64f82476e71d6da0d09724882852da8e",
+      "size_bytes": 588288
     },
     {
       "target": "v5_nRF9151",
-      "version": "v0.2.0-rc.2",
-      "asset": "v5_nRF9151-fw-bundle_ltt-20261015.1.s.bin",
-      "path": "fw-bundle_ltt-20261015.1/v5_nRF9151-fw-bundle_ltt-20261015.1.s.bin",
-      "sha256": "accdccd53a6d73cece136364713a46589d44fcd0b32f2724dac229713f22ad36",
-      "size_bytes": 327268
+      "version": "v0.2.0-rc.3",
+      "asset": "v5_nRF9151-fw-bundle_ltt-20261020.1.s.bin",
+      "path": "fw-bundle_ltt-20261020.1/v5_nRF9151-fw-bundle_ltt-20261020.1.s.bin",
+      "sha256": "4204ecac82333a784f37d432fc4bdbcf0f0949cc3731c0dabfa7b6382b31f577",
+      "size_bytes": 328328
     },
     {
       "target": "v5_esp32c3",
-      "version": "v0.2.0-rc.2",
-      "asset": "v5_esp32c3-fw-bundle_ltt-20261015.1.s.bin",
-      "path": "fw-bundle_ltt-20261015.1/v5_esp32c3-fw-bundle_ltt-20261015.1.s.bin",
-      "sha256": "cbe4cfd82eadbec47b0fee58d0905a5078e88dfc5d68cd35c664dfb6598bf02f",
-      "size_bytes": 151476
+      "version": "v0.2.0-rc.3",
+      "asset": "v5_esp32c3-fw-bundle_ltt-20261020.1.s.bin",
+      "path": "fw-bundle_ltt-20261020.1/v5_esp32c3-fw-bundle_ltt-20261020.1.s.bin",
+      "sha256": "4ab8741facfec2314fdda696094c39392c1deb65b380b56630d65cdee6a0c133",
+      "size_bytes": 152164
     }
   ]
 }
