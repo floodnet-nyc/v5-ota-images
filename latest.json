@@ -1,31 +1,31 @@
 {
   "schema_version": 1,
-  "bundle_tag": "fw-bundle_prod-20261020.1",
+  "bundle_tag": "fw-bundle_prod-20261022.1",
   "release_class": "prod",
-  "generated_at": "2026-10-20T21:29:51Z",
+  "generated_at": "2026-10-22T19:04:55Z",
   "images": [
     {
       "target": "v5_stm32u575",
-      "version": "v0.2.0-rc.3",
-      "asset": "v5_stm32u575-fw-bundle_prod-20261020.1.s.bin",
-      "path": "fw-bundle_prod-20261020.1/v5_stm32u575-fw-bundle_prod-20261020.1.s.bin",
-      "sha256": "9ab4983b963d17fba172edaf2afd415d54900d4603cd81f7b706e5752bd030f1",
-      "size_bytes": 366992
+      "version": "v0.2.0-rc.4",
+      "asset": "v5_stm32u575-fw-bundle_prod-20261022.1.s.bin",
+      "path": "fw-bundle_prod-20261022.1/v5_stm32u575-fw-bundle_prod-20261022.1.s.bin",
+      "sha256": "9a9efabc80dee386f700abe6e5fcc77d02b8641f99381445a0f5566508ca5d7b",
+      "size_bytes": 368380
     },
     {
       "target": "v5_nRF9151",
-      "version": "v0.2.0-rc.3",
-      "asset": "v5_nRF9151-fw-bundle_prod-20261020.1.s.bin",
-      "path": "fw-bundle_prod-20261020.1/v5_nRF9151-fw-bundle_prod-20261020.1.s.bin",
-      "sha256": "612e3f975705cd9327bf154ce98bc827215c30d45ba26574608844769b7993b3",
-      "size_bytes": 211152
+      "version": "v0.2.0-rc.4",
+      "asset": "v5_nRF9151-fw-bundle_prod-20261022.1.s.bin",
+      "path": "fw-bundle_prod-20261022.1/v5_nRF9151-fw-bundle_prod-20261022.1.s.bin",
+      "sha256": "84f5cb335145d29ae3c4ca4dd7b3c310aade4fe5f9aa77ed191a51e46b8f3cd9",
+      "size_bytes": 211392
     },
     {
       "target": "v5_esp32c3",
-      "version": "v0.2.0-rc.3",
-      "asset": "v5_esp32c3-fw-bundle_prod-20261020.1.s.bin",
-      "path": "fw-bundle_prod-20261020.1/v5_esp32c3-fw-bundle_prod-20261020.1.s.bin",
-      "sha256": "f4d159a7c142fcf9ca9587062c0671b68a4cf3290d5d8071a79a13f8efccf4d6",
+      "version": "v0.2.0-rc.4",
+      "asset": "v5_esp32c3-fw-bundle_prod-20261022.1.s.bin",
+      "path": "fw-bundle_prod-20261022.1/v5_esp32c3-fw-bundle_prod-20261022.1.s.bin",
+      "sha256": "82b15d50038a582339e6c9f0c2d8fa74d1ead8cb052245a6cac95ea22f2429e4",
       "size_bytes": 136052
     }
   ]
