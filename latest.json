@@ -1,31 +1,31 @@
 {
   "schema_version": 1,
-  "bundle_tag": "fw-bundle_lab-20261022.1",
+  "bundle_tag": "fw-bundle_lab-20261029.1",
   "release_class": "lab",
-  "generated_at": "2026-10-22T19:01:45Z",
+  "generated_at": "2026-10-29T19:34:32Z",
   "images": [
     {
       "target": "v5_stm32u575",
-      "version": "v0.2.0-rc.4",
-      "asset": "v5_stm32u575-fw-bundle_lab-20261022.1.s.bin",
-      "path": "fw-bundle_lab-20261022.1/v5_stm32u575-fw-bundle_lab-20261022.1.s.bin",
-      "sha256": "f908829fa1d0351c2c08a5c5b231e56bc358237b6c7e7e6e23d81508e0355b16",
-      "size_bytes": 419668
+      "version": "v0.2.0-rc.5",
+      "asset": "v5_stm32u575-fw-bundle_lab-20261029.1.s.bin",
+      "path": "fw-bundle_lab-20261029.1/v5_stm32u575-fw-bundle_lab-20261029.1.s.bin",
+      "sha256": "c8903a460b261fa24c675538360dd183bd6b274891384ad163151a783b7367e5",
+      "size_bytes": 420304
     },
     {
       "target": "v5_nRF9151",
       "version": "v0.2.0-rc.4",
-      "asset": "v5_nRF9151-fw-bundle_lab-20261022.1.s.bin",
-      "path": "fw-bundle_lab-20261022.1/v5_nRF9151-fw-bundle_lab-20261022.1.s.bin",
-      "sha256": "5b96defe0e7db3e4c4c5e7af2fa5be7ede9d01da7906fcb29fb215950bb67396",
+      "asset": "v5_nRF9151-fw-bundle_lab-20261029.1.s.bin",
+      "path": "fw-bundle_lab-20261029.1/v5_nRF9151-fw-bundle_lab-20261029.1.s.bin",
+      "sha256": "305249822f571aeab05542a81fb1f6b38b69f282f0c4017284feb078355853a2",
       "size_bytes": 246520
     },
     {
       "target": "v5_esp32c3",
       "version": "v0.2.0-rc.4",
-      "asset": "v5_esp32c3-fw-bundle_lab-20261022.1.s.bin",
-      "path": "fw-bundle_lab-20261022.1/v5_esp32c3-fw-bundle_lab-20261022.1.s.bin",
-      "sha256": "6a1d4e585b373bf6f05e3f3a8f23e69508f111fb1ad0ad98abdbe7b188067c9c",
+      "asset": "v5_esp32c3-fw-bundle_lab-20261029.1.s.bin",
+      "path": "fw-bundle_lab-20261029.1/v5_esp32c3-fw-bundle_lab-20261029.1.s.bin",
+      "sha256": "604c16decdf7bcdc3f811aec227673229445db54a7f64d68b1e586b8e04dabd1",
       "size_bytes": 139988
     }
   ]
