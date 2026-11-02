@@ -1,31 +1,31 @@
 {
   "schema_version": 1,
-  "bundle_tag": "fw-bundle_ltt-20261030.1",
+  "bundle_tag": "fw-bundle_ltt-20261102.1",
   "release_class": "ltt",
-  "generated_at": "2026-10-30T20:16:18Z",
+  "generated_at": "2026-11-02T16:32:24Z",
   "images": [
     {
       "target": "v5_stm32u575",
-      "version": "v0.2.0-rc.6",
-      "asset": "v5_stm32u575-fw-bundle_ltt-20261030.1.s.bin",
-      "path": "fw-bundle_ltt-20261030.1/v5_stm32u575-fw-bundle_ltt-20261030.1.s.bin",
-      "sha256": "33183fccafc020ab375b38183e29712699d386b9cb9d8fdc721c98c4ade9785f",
-      "size_bytes": 601332
+      "version": "v0.2.0-rc.7",
+      "asset": "v5_stm32u575-fw-bundle_ltt-20261102.1.s.bin",
+      "path": "fw-bundle_ltt-20261102.1/v5_stm32u575-fw-bundle_ltt-20261102.1.s.bin",
+      "sha256": "faa24dd8bf6da06163c73b216faeb0655285342d4dd23ccd374e62b9ebcd5cb0",
+      "size_bytes": 592016
     },
     {
       "target": "v5_nRF9151",
       "version": "v0.2.0-rc.4",
-      "asset": "v5_nRF9151-fw-bundle_ltt-20261030.1.s.bin",
-      "path": "fw-bundle_ltt-20261030.1/v5_nRF9151-fw-bundle_ltt-20261030.1.s.bin",
-      "sha256": "7b91eca36c56083a695ae64f9783b49d540562f4eb05a73bd74441a7e69b2883",
+      "asset": "v5_nRF9151-fw-bundle_ltt-20261102.1.s.bin",
+      "path": "fw-bundle_ltt-20261102.1/v5_nRF9151-fw-bundle_ltt-20261102.1.s.bin",
+      "sha256": "bf9adb8bf42c47b808cd50ced28d1dabccbfc2ed4558d802418d749016d4ef64",
       "size_bytes": 328772
     },
     {
       "target": "v5_esp32c3",
       "version": "v0.2.0-rc.4",
-      "asset": "v5_esp32c3-fw-bundle_ltt-20261030.1.s.bin",
-      "path": "fw-bundle_ltt-20261030.1/v5_esp32c3-fw-bundle_ltt-20261030.1.s.bin",
-      "sha256": "349c137c3272a6adba4c4dfc8eb3ff96f2378000c674b887c6bb976b5d340ce3",
+      "asset": "v5_esp32c3-fw-bundle_ltt-20261102.1.s.bin",
+      "path": "fw-bundle_ltt-20261102.1/v5_esp32c3-fw-bundle_ltt-20261102.1.s.bin",
+      "sha256": "b0e2f5a8d5038dea0df6121175415c3d1bb292733259d1fd3c56021ae5b05303",
       "size_bytes": 152212
     }
   ]
