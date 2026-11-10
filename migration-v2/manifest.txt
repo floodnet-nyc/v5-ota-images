@@ -1,0 +1,6 @@
+STM32_SBL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/migration/migration-v2/v5_stm32u575_sbl.bin,c38d557b966aee205b4a5c539670a0fd67414e8373a4466ae3750221857396d3
+STM32_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/migration/migration-v2/v5_stm32u575_v0.2.0-rc.11-mig.s.bin,8ea05da1d358f22adff640762eb2abf1c723ddd611304d654e1c268930370bd6
+NRF_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/migration/migration-v2/v5_nrf9151_v0.2.0-ns.s.bin,1e25b1bb2aefd6be150743f51bc980bda1ead0286b136c4c436ef16db1423f8a
+ESP32_MIGRATION:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/migration/migration-v2/v5_esp32c3_v0.0.6-migration.bin,3f2463147ba7c2755517ec1742ca8b624e4bf840f273aec26b1d2280548cca27
+ESP32_SBL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/migration/migration-v2/v5_esp32c3_sbl.bin,623bbce10b4c4b4ff2324f283b473b15f1a885c493fa77d792614448805c2933
+ESP32_FINAL:https://raw.githubusercontent.com/floodnet-nyc/v5-ota-images/migration/migration-v2/v5_esp32c3_v0.2.0-rc.7.s.bin,06ad2e5d80c2742f157d527f7e1ae426c54abbdb26d98bca2afdb8c390983af2
