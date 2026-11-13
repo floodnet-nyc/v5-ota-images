@@ -1,31 +1,39 @@
 {
   "schema_version": 1,
-  "bundle_tag": "fw-bundle_prod-20261106.2",
+  "bundle_tag": "fw-bundle_prod-20261113.1",
   "release_class": "prod",
-  "generated_at": "2026-11-06T23:04:09Z",
+  "generated_at": "2026-11-13T19:44:42Z",
   "images": [
     {
       "target": "v5_stm32u575",
-      "version": "v0.2.0-rc.11",
-      "asset": "v5_stm32u575-fw-bundle_prod-20261106.2.s.bin",
-      "path": "fw-bundle_prod-20261106.2/v5_stm32u575-fw-bundle_prod-20261106.2.s.bin",
-      "sha256": "4c87b7127bfb3d51568172905cb153765374b7c2acdf8538d3f48afa3f0683d8",
-      "size_bytes": 436204
+      "version": "v0.2.0-rc.12",
+      "asset": "v5_stm32u575-fw-bundle_prod-20261113.1.s.bin",
+      "path": "fw-bundle_prod-20261113.1/v5_stm32u575-fw-bundle_prod-20261113.1.s.bin",
+      "sha256": "93818f45e15806c2eee6490dae077da482ae505f973ebdcf5c8f0edc9c897e46",
+      "size_bytes": 441056
     },
     {
       "target": "v5_nRF9151",
-      "version": "v0.2.0-rc.7",
-      "asset": "v5_nRF9151-fw-bundle_prod-20261106.2.s.bin",
-      "path": "fw-bundle_prod-20261106.2/v5_nRF9151-fw-bundle_prod-20261106.2.s.bin",
-      "sha256": "1183800c708f19d50d1974e10ae9005edf5b1f661c5f6cfcb10c66693e7e171f",
-      "size_bytes": 219016
+      "version": "v0.2.0-rc.8",
+      "asset": "v5_nRF9151-fw-bundle_prod-20261113.1.s.bin",
+      "path": "fw-bundle_prod-20261113.1/v5_nRF9151-fw-bundle_prod-20261113.1.s.bin",
+      "sha256": "2a7474dae03f4aeaefd7122e6d7d743da29d2c74b2d30ba161414b8583d1fdc0",
+      "size_bytes": 219072
+    },
+    {
+      "target": "v5_nRF9151_ns",
+      "version": "v0.2.0-rc.8",
+      "asset": "v5_nRF9151-fw-bundle_prod-20261113.1_ns.s.bin",
+      "path": "fw-bundle_prod-20261113.1/v5_nRF9151-fw-bundle_prod-20261113.1_ns.s.bin",
+      "sha256": "c968f0536137eabdd1951b601e914e8ddc51892cdd956a64d4175486eb175048",
+      "size_bytes": 218887
     },
     {
       "target": "v5_esp32c3",
-      "version": "v0.2.0-rc.7",
-      "asset": "v5_esp32c3-fw-bundle_prod-20261106.2.s.bin",
-      "path": "fw-bundle_prod-20261106.2/v5_esp32c3-fw-bundle_prod-20261106.2.s.bin",
-      "sha256": "06ad2e5d80c2742f157d527f7e1ae426c54abbdb26d98bca2afdb8c390983af2",
+      "version": "v0.2.0-rc.8",
+      "asset": "v5_esp32c3-fw-bundle_prod-20261113.1.s.bin",
+      "path": "fw-bundle_prod-20261113.1/v5_esp32c3-fw-bundle_prod-20261113.1.s.bin",
+      "sha256": "eb83c82454784d529cbe41070db2be9104e981eb5334af771ac7e1043bc0566b",
       "size_bytes": 135268
     }
   ]
