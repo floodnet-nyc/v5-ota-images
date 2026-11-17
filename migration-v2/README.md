@@ -19,7 +19,7 @@ at this branch.
 | ESP32_MIGRATION | `v5_esp32c3_v0.0.6-migration.bin` | v5_esp32c3 migration/v0.0.6-preview, west build -b v5/esp32c3 --sysbuild |
 | ESP32_SBL | `v5_esp32c3_sbl.bin` | v5_esp32c3 v0.2.0-rc.8, west fn build prod -- -DFN_EFUSE_VIRTUAL=ON: build/prod/bootloader/mcuboot_esp32c3.signed.bin |
 | ESP32_FINAL | `v5_esp32c3_v0.2.0-rc.8.s.bin` | v5_esp32c3 v0.2.0-rc.8, west fn build prod -- -DFN_EFUSE_VIRTUAL=ON: build/prod/app/zephyr/zephyr.signed.bin |
-| STM32_MIGRATION | `v5_stm32u575_v0.1.99-migration-v2.bin` | v5_stm32u575 migration/v0.1.99-rc3 (1f90092a9f6c) + manifest.txt, -DEXTRA_CONF_FILE=migration.conf |
+| STM32_MIGRATION | `v5_stm32u575_v0.1.99-migration-v2.bin` | v5_stm32u575 migration/v0.1.99-rc3 (e4c4cbc5fbcd) + manifest.txt, -DEXTRA_CONF_FILE=migration.conf |
 | NRF_TRANSITION | `v5_nrf9151_v0.1.99-transition.bin` | v5_nRF9151 migration/v0.1.99-rc2 (ab64a1783e25) + generated overlay, fork NCS ncs-v5-rev3 |
 
 Start the campaign with:
