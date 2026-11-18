@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "bundle_tag": "fw-bundle_user-20261118.1",
+  "bundle_tag": "fw-bundle_user-20261118.2",
   "release_class": "user",
-  "generated_at": "2026-11-18T16:22:34Z",
+  "generated_at": "2026-11-18T20:39:50Z",
   "images": [
     {
       "target": "v5_stm32u575",
-      "version": "v0.2.0-rc.14",
-      "asset": "v5_stm32u575-fw-bundle_user-20261118.1.s.bin",
-      "path": "fw-bundle_user-20261118.1/v5_stm32u575-fw-bundle_user-20261118.1.s.bin",
-      "sha256": "5d62bd82a03529d730ba98bf07a2759455d3ab2bb2169453b2b78298440eba0a",
-      "size_bytes": 482732
+      "version": "v0.2.0-rc.15",
+      "asset": "v5_stm32u575-fw-bundle_user-20261118.2.s.bin",
+      "path": "fw-bundle_user-20261118.2/v5_stm32u575-fw-bundle_user-20261118.2.s.bin",
+      "sha256": "5d6120ceb70397b8d33e06088906f27501ca170a262fa12a354b4e50acc0e77a",
+      "size_bytes": 494280
     },
     {
       "target": "v5_nRF9151",
       "version": "v0.2.0-rc.9",
-      "asset": "v5_nRF9151-fw-bundle_user-20261118.1.s.bin",
-      "path": "fw-bundle_user-20261118.1/v5_nRF9151-fw-bundle_user-20261118.1.s.bin",
-      "sha256": "7b739f2fdd2340d5aed4f7fe0d9833a83d5e843528cddaf4581dbea433ec5258",
+      "asset": "v5_nRF9151-fw-bundle_user-20261118.2.s.bin",
+      "path": "fw-bundle_user-20261118.2/v5_nRF9151-fw-bundle_user-20261118.2.s.bin",
+      "sha256": "dc2982e763e414ddcab7d9585ce9affbc058a81bf07e769b63707338fe1cfbe2",
       "size_bytes": 230756
     },
     {
       "target": "v5_nRF9151_ns",
       "version": "v0.2.0-rc.9",
-      "asset": "v5_nRF9151-fw-bundle_user-20261118.1_ns.s.bin",
-      "path": "fw-bundle_user-20261118.1/v5_nRF9151-fw-bundle_user-20261118.1_ns.s.bin",
-      "sha256": "9b85e421b91470ef228cc34c1c2569ceaf0f68bcee90fe4614faecd165ff8de6",
+      "asset": "v5_nRF9151-fw-bundle_user-20261118.2_ns.s.bin",
+      "path": "fw-bundle_user-20261118.2/v5_nRF9151-fw-bundle_user-20261118.2_ns.s.bin",
+      "sha256": "978dea22b54039521ffcfd6baeaa1b3fc9fb3696c81e6a4badeab809f92dc0cb",
       "size_bytes": 230571
     },
     {
       "target": "v5_esp32c3",
       "version": "v0.2.0-rc.9",
-      "asset": "v5_esp32c3-fw-bundle_user-20261118.1.s.bin",
-      "path": "fw-bundle_user-20261118.1/v5_esp32c3-fw-bundle_user-20261118.1.s.bin",
-      "sha256": "ddb09e3e7f17767ebf023d9d0c4a9db66c7379c62062c8bbfc0cdd5ef6b89e84",
+      "asset": "v5_esp32c3-fw-bundle_user-20261118.2.s.bin",
+      "path": "fw-bundle_user-20261118.2/v5_esp32c3-fw-bundle_user-20261118.2.s.bin",
+      "sha256": "990829007a1e094b9c58abfa613190ffbc4c6b3b1aa1a493a15d51b5b2c38e1c",
       "size_bytes": 692580
     }
   ]
